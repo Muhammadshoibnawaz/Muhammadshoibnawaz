@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm Muhammad Shoib Nawaz</h1>
-<h3 align="center">Ph.D. Candidate | Microbial Ecology | Microbiome | Network Analysis</h3>
+<h3 align="center">Ph.D. Candidate | Microbial Ecology | Microbiome</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
@@ -59,15 +59,6 @@ I focus on understanding **microbial communities as complex systems**, especiall
 | Visualization | ggplot2, ComplexHeatmap |
 | ML/Stats | scikit-learn, multivariate ecology |
 | Environment | Linux, HPC (SLURM), Conda |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadshoibnawaz&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadshoibnawaz&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
