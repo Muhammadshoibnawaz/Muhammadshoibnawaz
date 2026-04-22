@@ -17,7 +17,7 @@ I am a **Ph.D. candidate in Microbiology at Clemson University** working at the 
 - 🧬 Microbial Ecology  
 - 🌱 Plant–Microbe Interactions  
 - 📊 Bioinformatics & Statistics  
-- 🔗 Ecological Network Analysis  
+  
 
 I focus on understanding **microbial communities as complex systems**, especially under **environmental stress**.
 
